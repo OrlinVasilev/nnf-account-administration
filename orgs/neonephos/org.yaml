@@ -52,6 +52,7 @@ orgs:
     - ChrisWeissDT
     - cix-sandmark
     - CowFreedom
+    - entlein
     - Fannon
     - fmui
     - gehoern
@@ -93,8 +94,6 @@ orgs:
         - cix-sandmark
         - rquerio
         - kub3anni
-        - gerschu73
-        - othylmann
         - AlexandraHaenig
         - robva-00
         - mkambeck
@@ -120,6 +119,7 @@ orgs:
             - CowFreedom
             members:
             - abuango
+            - AlexandraHaenig
             privacy: closed
             repos:
               outreach: maintain
@@ -131,6 +131,9 @@ orgs:
             members:
             - abuango
             - cix-sandmark
+            - kub3anni
+            - AlexandraHaenig
+            - entlein
             privacy: closed
             repos:
               outreach: maintain
@@ -204,10 +207,10 @@ orgs:
         - fmui
         - tlakner
         - OrlinVasilev
-        - CowFreedom
         - othylmann
         - ChrisWeissDT
         - stephanstackit
+        - AlexandraHaenig
         privacy: closed
         repos:
           Sandbox: read
